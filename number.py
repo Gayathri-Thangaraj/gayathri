@@ -1,8 +1,8 @@
-n = int(input("Enter the number"))
+n = 5
 if(n==0):
-  print("given no is Zero")
+  print("Zero")
 elif(n>0):
-  print("given no is positive")
+  print("positive")
 else:
-  print("given no is negative")
+  print(" negative")
   
